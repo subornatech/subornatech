@@ -1,16 +1,21 @@
+<!-- 1. Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Your%20Name!&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner"/>
+</p>
 
+<!-- 2. Name & Designation -->
+<h1 align="center">Suborna Chakraborti</h1>
+<h3 align="center"> Full Stack Explorer | Flutter & Dart Learner </h3>
 
-<!--
-**subornatech/subornatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br /> 
 
-Here are some ideas to get you started:
+<!-- 3. About Me Section -->
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   👋 Hi, I’m **Suborna Chakraborti**, a passionate developer focused on building modern web applications.
+-   I’m currently learning and exploring **Next.js** and **TypeScript**.
+-    Ask me about **JavaScript, React, and Web Development**.
+-    I am improving my React development skills
+-    I am exploring Flutter and Dart
+-    I am continuously learning new technologies
+<br />
