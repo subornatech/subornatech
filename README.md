@@ -1,6 +1,6 @@
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Suborna Chakraborti!&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Suborna%20Chakraborti!&fontSize=42&animation=fadeIn" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- 2. Name & Designation -->
