@@ -1,6 +1,6 @@
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Suborna%20Chakraborti!&fontSize=42&animation=fadeIn" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=200&section=header&text=Suborna%20Chakraborti&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descSize=20&descColor=CBD5E1&descAlignY=65" width="100%" alt="Suborna Chakraborti"/>
 </p>
 
 <!-- 2. Name & Designation -->
@@ -31,7 +31,7 @@
 ![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)
+![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)
 
 
 ### Deployment Platform:
