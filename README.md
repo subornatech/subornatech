@@ -33,8 +33,6 @@
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/touhidcodes)
 
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb](https://github.com/touhidcodes)
 
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
