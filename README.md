@@ -1,32 +1,20 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:D81B7E,100:FF5722&height=230&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Suborna%20Chakraborti&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=18&descAlignY=62&descColor=ffffff"
-    width="100%"
-    alt="Suborna Chakraborti GitHub Banner"
-  />
-</p>
+
+<!-- 1. Banner Section -->
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:7C3AED,100:D81B7E&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Suborna%20Chakraborti&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=18&descAlignY=62&descColor=E9D5FF" width="100%" alt="Suborna Chakraborti GitHub Banner" /> </p>
+<br/>
+
+<!-- 2.Name and desgination Section -->
 
 <h1 align="center">Suborna Chakraborti</h1>
 
-<h3 align="center">
-  Full Stack Web Developer | React & Next.js Developer
-</h3>
+<h3 align="center">  Full Stack Web Developer </h3>
 
-<p align="center">
-  <a href="https://github.com/Suborna248">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Suborna248&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
-</p>
+<p align="center"> <i> Learning • Building • Improving • Exploring New Technologies </i> </p>
 
-<p align="center">
-  <b>🚀 Building modern web applications</b> •
-  <b>💻 Learning every day</b> •
-  <b>🌱 Growing as a developer</b>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github" alt="Skills"/> </p>
+
+<p align="center"> Building modern web applications &nbsp;•&nbsp;  Always learning &nbsp;•&nbsp;  Turning ideas into projects </p>
 
 <br/>
 
