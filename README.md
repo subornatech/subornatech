@@ -25,23 +25,23 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)]
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)]
+![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)]
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)
 
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)]
+![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)]
+![Design & Graphics](https://skillicons.dev/icons?i=figma)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)]
+![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)
 
 <br/>
 
