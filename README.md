@@ -1,6 +1,6 @@
 <!-- 1. Header Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=200&section=header&text=Suborna%20Chakraborti&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descSize=20&descColor=CBD5E1&descAlignY=65" width="100%" alt="Suborna Chakraborti"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:D81B7E,100:FF5722&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Suborna%20Chakraborti&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Suborna Chakraborti GitHub Banner"/>
 </p>
 
 <!-- 2. Name & Designation -->
