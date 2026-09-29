@@ -25,17 +25,23 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)]
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)]
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)]
 
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)]
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)]
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)]
+
+<br/>
+
