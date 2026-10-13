@@ -14,7 +14,7 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github" alt="Skills"/> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/subarna-chakraborti-005b9b3b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
